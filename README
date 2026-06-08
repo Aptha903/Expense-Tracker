@@ -1,0 +1,22 @@
+ # Expense Tracker
+
+A command-line expense tracking application built with Python.
+
+## Features
+- Add expenses with category, amount, and note
+- View all saved expenses
+- Data stored persistently using JSON file
+
+## Tech Stack
+- Python
+- JSON (file storage)
+- OS module (file handling)
+
+## How to Run
+[8:23 pm, 08/06/2026] aptha: ## Usage
+- Choose *1* to add an expense
+- Choose *2* to view all expenses  
+- Choose *3* to exit
+[8:23 pm, 08/06/2026] aptha: git add README.md
+git commit -m "Add README"
+git push
